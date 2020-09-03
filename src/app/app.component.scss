@@ -1,0 +1,37 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.example-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  width: 100%;
+}
+
+.side-bar {
+  width: 200px;
+  background-color: #673ab7;
+}
+.vdivider {
+  padding-right: 20px;
+}
+.list_style {
+  mat-list-item {
+    a {
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    span {
+      padding-left: 5px;
+    }
+  }
+}
+
+table {
+  width: 100%;
+}
