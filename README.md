@@ -2,6 +2,8 @@
 
 ## Screenshot
 
+![Promo Image](https://github.com/rabira-hierpa/vFleet/blob/master/promo/vFleet-promo.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
