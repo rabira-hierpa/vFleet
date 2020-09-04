@@ -9,11 +9,12 @@ import {
 import { catchError, tap, map } from 'rxjs/operators';
 import { Vehicle } from './models/vehicle';
 
+// Refer to https://bit.ly/3jHzAQX to get your api key from fleetio!
 const httpOptions = {
   headers: new HttpHeaders({
     'Content-Type': 'application/json',
-    Authorization: 'Token cfe5e443fb5bc830f44920ca5b7a8471ef29a9fe',
-    'Account-Token': '576b40cfb8',
+    Authorization: 'your api token from fleetio',
+    'Account-Token': 'your account token from fleetio',
   }),
 };
 
